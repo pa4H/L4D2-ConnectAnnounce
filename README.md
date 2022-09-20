@@ -1,6 +1,6 @@
 # [L4D2] ConnectAnnounce
 
-A VERY simple plugin showing the connection and disconnection message. And also shows the __hours__ spent in L4D2.
+A VERY simple plugin showing the connection and disconnection message. Country, city, disconnect reason and also shows the __hours__ spent in L4D2.
 
 ## Phrases preview:
 ```
