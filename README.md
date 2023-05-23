@@ -17,5 +17,4 @@ The translation file is available (pa4HConAnnounce.phrases.txt)
  
  ##
 Compiled on SourceMod 1.11  
-[Colors.inc](https://forums.alliedmods.net/showthread.php?t=96831) for plugin compilation.  
 [Developer](https://vk.com/pa4h1337)
